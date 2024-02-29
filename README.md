@@ -6,7 +6,6 @@ Purpose: Mentee project showcasing the hands-on lab of "The Art of Prompt Engine
 Name: Ruth Johana Hutagalung
 
 Program: IBM Advanced AI
-### :robot: Tech Stack:
-- JupyterLab 
+### :robot: Tech Stack: 
 - Jupyter Notebook
 - LangChain
